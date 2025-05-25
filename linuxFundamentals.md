@@ -14,7 +14,6 @@ For any Linux command you can check the usage and different input flags it expec
 
 ## Commands:
 
-
 1> pwd : this represents what is the current directory we are currently at.
 
 2> ls :  you can print the content of the current directory we are in. All the files and sub-directories will be printed.
@@ -24,6 +23,10 @@ For any Linux command you can check the usage and different input flags it expec
 4> cd.. : if you want to jump one folder back from the current directory.
 
 5> cd../.. : if you want to make two jumps back from the current directory.
+
+6> 
+
+
 
 
 
