@@ -20,10 +20,13 @@ For any Linux command you can check the usage and different input flags it expec
 
 3> cd : this can help you to move into a folder and move out of a folder.
 
-4> cd.. : if you want to jump one folder back from the current directory.
+  3.1> cd.. : if you want to jump one folder back from the current directory.
+  
+  3.2> cd../.. : if you want to make two jumps back from the current directory.
+  
+  3.3> 
 
-5> cd../.. : if you want to make two jumps back from the current directory.
-
+  
 6> 
 
 
