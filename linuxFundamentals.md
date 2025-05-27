@@ -14,20 +14,20 @@ For any Linux command you can check the usage and different input flags it expec
 
 ## Commands:
 
-1> **pwd :** this represents what is the current directory we are currently at.
+1> *pwd :* this represents what is the current directory we are currently at.
 
-2> **ls :**  you can print the content of the current directory we are in. All the files and sub-directories will be printed.
+2> *ls :*  you can print the content of the current directory we are in. All the files and sub-directories will be printed.
 
-3> **cd :** this can help you to move into a folder and move out of a folder.
+3> *cd :* this can help you to move into a folder and move out of a folder.
 
-    3.1> ** cd.. :** if you want to jump one folder back from the current directory.
+    3.1> cd.. : if you want to jump one folder back from the current directory.
     
-    3.2> **cd../.. :** if you want to make two jumps back from the current directory.
+    3.2> cd../.. : if you want to make two jumps back from the current directory.
     
     3.3> 
 
   
-6> `cd:- 
+6> 
 
 
 
