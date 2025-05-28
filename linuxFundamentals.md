@@ -24,10 +24,14 @@ For any Linux command you can check the usage and different input flags it expec
     
     3.2> cd../.. : if you want to make two jumps back from the current directory.
     
-    3.3> 
+    3.3> cd ~ : from any directory this will help you to come back to the home directory.
+
+    3.4> cd directory1/directory2/: we can move into internal subdirectories directly by separating them with a forward slash
+
+    3.5> 
 
   
-6> 
+4> 
 
 
 
